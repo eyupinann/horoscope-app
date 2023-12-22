@@ -1,3 +1,10 @@
+## Horoscope Calculation and İnterpretation
+The purpose of this project is to look at the entered date and find and interpret the horoscope.
+<p float="left">
+  <img src="assets/hor-ss1.png" width="400" alt="image 2"/> 
+  <img src="assets/hor-ss2.png" width="400" alt="image 1"/> 
+</p>
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
